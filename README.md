@@ -1,6 +1,7 @@
-# RE-LOADED-DUTCH-CHYPER
-Collider Craftworks Dutch Chyper FanPage
+# MyPortfolio
+My portfolio
 
-Collider CraftWorks
-Dutch Chyper RELOADED
-By: November.19th#3732 & Loved#9999
+This is my personal PORTFOLIO.
+I will be updating it frequantly.
+
+I am still learning and developing, testing out new features and progressing.
