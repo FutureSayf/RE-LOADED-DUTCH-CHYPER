@@ -516,7 +516,19 @@ xclip
 }
 
 .section.wb {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
+    background: url(/uploads/ak47.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.section.wb1 {
+    /* background-color: #ffffff; */
+    background: url(/uploads/gunner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
@@ -2163,6 +2175,17 @@ select.mobile-device {
 	/* color: #bafd02f3; */
     font-size: 20px;
 }
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  
+  }
+  .ShibaVid{
+    width: 100%;
+  }
 
 .contact_form textarea.form-control{
 	min-height: 225px;
