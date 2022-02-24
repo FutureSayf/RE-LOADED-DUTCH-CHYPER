@@ -2275,7 +2275,7 @@ select.mobile-device {
 
 .footer-links a:hover,
 .footer a:hover {
-    color: #333333 !important;
+    color: rgb(216,85,35) !important;
 }
 
 .footer-links li {
@@ -2311,7 +2311,7 @@ select.mobile-device {
 
 .copyrights {
     border-top: 1px dashed rgba(255, 255, 255, 0.1);
-    background-color: #1f1f1f;
+    background-color: #000000;
     box-sizing: border-box;
     width: 100%;
     text-align: left;
