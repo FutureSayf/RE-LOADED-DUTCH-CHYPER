@@ -1513,8 +1513,8 @@ hr.invis1 {
 }
 
 .filter-button-group button.active{
-	background: #000000;
-	color: #fff;
+	background: #000000c2;
+	color: rgb(155, 72, 72);
 	/* color: rgba(255, 94, 0, 0.801); */
 	/* box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);	 */
 	box-shadow: 2px 20px 45px 5px rgba(217, 2, 255, 0.233);	
@@ -1522,14 +1522,14 @@ hr.invis1 {
 
 .filter-button-group button{
 	/* color: #333; */
-	color: rgb(0, 0, 0);
+	color: rgb(143, 143, 143);
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-weight: 600;
 	font-size: 14px;
     font-family: Roboto Mono, monospace;
 	cursor: pointer;
-	background: #fff;
+	background: rgb(0, 0, 0);
 	padding: 12px 40px;
 	border: none;
 	border-radius: 0px;
@@ -2586,7 +2586,7 @@ select.mobile-device {
 .btn-light {
     padding: 10px 40px;
     font-size: 18px;
-    border: 2px solid #ffffff !important;
+    border: 2px solid #c56a6a !important;
     color: #ffffff;
     background-color: transparent;
 }
@@ -2594,7 +2594,7 @@ select.mobile-device {
 .btn-dark {
     padding: 13px 40px;
     font-size: 18px;
-    border: 1px solid #ececec !important;
+    border: 1px solid #906565 !important;
     color: #1f1f1f;
     background-color: transparent;
 }
