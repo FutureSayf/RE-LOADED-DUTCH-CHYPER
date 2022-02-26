@@ -168,7 +168,7 @@
 .owl-next i,
 .owl-prev i {
   /* background-color: #111; */
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.26);
   width: 30px;
   height: 30px;
   font-size: 18px;
@@ -176,7 +176,8 @@
   text-align: center;
   right:auto;
   /* color: #ffffff; */
-  color: #000000;
+  /* color: #000000; */
+  color: rgb(225,94,46);
 }
 
 .owl-next i:hover, .owl-prev i:hover{

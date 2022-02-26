@@ -592,7 +592,7 @@ xclip
 }
 
 .section-title p {
-    color: #999;
+    color: rgb(184, 184, 184);
     /* color: rgb(59, 59, 59); */
     /* text-shadow: 4px 4px 8px #ffffff; */
     text-shadow: 0 0 3px #fdfdfd;
@@ -602,7 +602,9 @@ xclip
     margin: 0;
 }
 .section-title span{
-    color: rgb(61, 61, 61);
+    /* color: rgb(134, 16, 16); */
+    text-shadow: 0 0 3px #fdfdfd;
+    color: rgb(184, 184, 184);
 }
 
 .section-title h3 {
@@ -613,6 +615,8 @@ xclip
     margin: 0 0 25px;
     padding: 0;
     text-transform: none;
+    text-shadow: 0 0 3px #fdfdfd;
+    color: rgb(184, 184, 184);
 }
 
 .section.colorsection p,
@@ -897,7 +901,7 @@ xclip
 .desc {
     padding: 30px;
     position: relative;
-    background: #000;
+    background: rgba(0, 0, 0, 0.24);
     border: 1px solid #111111;
 }
 .desc:hover span {
@@ -916,8 +920,11 @@ xclip
 
 .testimonial h4 {
     font-size: 18px;
-    color: #333333;
+    color: rgb(211,83,33);
+    text-shadow: 0 0 3px rgb(211,83,33);
     padding: 13px 0 0;
+    /* text-shadow: 0 0 3px #fdfdfd; */
+    /* color: rgb(184, 184, 184); */
 }
 
 .testimonial img {
