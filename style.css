@@ -891,12 +891,11 @@ xclip
 
 .desc h3 i {
     color: #cccccc;
-    /* color: #b86d6d; */
-    /* text-shadow: 0 0 3px #fdfdfd; */
     font-size: 37px;
     vertical-align: middle;
     margin-right: 12px;
 }
+
 
 .desc {
     padding: 30px;
@@ -904,11 +903,15 @@ xclip
     background: rgba(0, 0, 0, 0.24);
     border: 1px solid #111111;
 }
-.desc:hover span {
+.desc span {
     /* color: rgba(215, 82, 34, 0.781); */
-    color: rgba(255, 255, 255, 0.781);
-    /* text-shadow: 0 0 3px #fdfdfd; */
+    /* color: rgba(255, 255, 255, 0.781); */
+    color: rgba(211, 83, 33, 0.527);
+    text-shadow: 0 0 3px rgba(211, 83, 33, 0.705);
+    padding: 13px 0 0;
 }
+
+
 .desc:hover p{
     text-shadow: 0 0 1px #fdfdfd;
 }
