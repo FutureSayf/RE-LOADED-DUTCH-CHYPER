@@ -717,6 +717,9 @@ xclip
 .right-box-pro h1{
     color: rgba(178, 36, 1, 0.781);
 }
+.right-box-pro:hover p{
+    text-shadow: 0 0 1px #fdfdfd;
+}
 
 
 
