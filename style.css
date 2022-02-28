@@ -903,13 +903,13 @@ xclip
 .desc {
     padding: 30px;
     position: relative;
-    background: rgba(0, 0, 0, 0.24);
+    background: rgba(0, 0, 0, 0.5);
     border: 1px solid #111111;
 }
 .desc span {
     /* color: rgba(215, 82, 34, 0.781); */
     /* color: rgba(255, 255, 255, 0.781); */
-    color: rgba(211, 83, 33, 0.527);
+    color: rgb(219,84,36);
     text-shadow: 0 0 3px rgba(211, 83, 33, 0.705);
     padding: 13px 0 0;
 }
