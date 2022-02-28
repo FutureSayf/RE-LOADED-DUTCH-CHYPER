@@ -592,19 +592,21 @@ xclip
 }
 
 .section-title p {
-    color: rgb(184, 184, 184);
+    /* color: rgb(184, 184, 184); */
     /* color: rgb(59, 59, 59); */
     /* text-shadow: 4px 4px 8px #ffffff; */
-    text-shadow: 0 0 3px #fdfdfd;
+    /* text-shadow: 0 0 3px #fdfdfd; */
     font-weight: 400;
     font-size: 18px;
     line-height: 33px;
     margin: 0;
+    text-shadow: 0 0 3px #000000;
+    color: rgb(224, 224, 224);
 }
 .section-title span{
     /* color: rgb(134, 16, 16); */
-    text-shadow: 0 0 3px #fdfdfd;
-    color: rgb(184, 184, 184);
+    text-shadow: 0 0 3px #000000;
+    color: rgb(224, 224, 224);
 }
 
 .section-title h3 {
@@ -615,8 +617,21 @@ xclip
     margin: 0 0 25px;
     padding: 0;
     text-transform: none;
-    text-shadow: 0 0 3px #fdfdfd;
-    color: rgb(184, 184, 184);
+    text-shadow: 0 0 3px #000000bb;
+    color: rgb(44, 44, 44);
+
+}
+.section-title h2 {
+    /* font-family: cinzel, sans-serif; */
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 62px;
+    margin: 0 0 25px;
+    padding: 0;
+    text-transform: none;
+    text-shadow: 0 0 3px #000000;
+    /* color: rgb(121, 121, 121); */
+    color: rgb(224, 224, 224);
 }
 
 .section.colorsection p,
@@ -698,6 +713,7 @@ xclip
 	box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.3);
     background-color: rgba(0, 0, 0, 0.459);
     margin-left: 10%;
+    
 }
 .right-box-pro img{
 	position: relative;
@@ -716,6 +732,11 @@ xclip
 }
 .right-box-pro h1{
     color: rgba(178, 36, 1, 0.781);
+    font-family: 'Cinzel', serif;
+}
+.right-box-pro span{
+    color: rgba(209, 82, 50, 0.986);
+    font-family: 'Cinzel', serif;
 }
 .right-box-pro:hover p{
     text-shadow: 0 0 1px #fdfdfd;
@@ -909,9 +930,11 @@ xclip
 .desc span {
     /* color: rgba(215, 82, 34, 0.781); */
     /* color: rgba(255, 255, 255, 0.781); */
-    color: rgb(219,84,36);
-    text-shadow: 0 0 3px rgba(211, 83, 33, 0.705);
+    color: rgb(207, 97, 57);
+    /* text-shadow: 0 0 3px rgba(211, 83, 33, 0.705); */
+    text-shadow: 0 0 1px black;
     padding: 13px 0 0;
+    font-family: 'Cinzel', serif;
 }
 
 
