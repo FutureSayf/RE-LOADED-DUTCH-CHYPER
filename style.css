@@ -936,6 +936,12 @@ xclip
     padding: 13px 0 0;
     font-family: 'Cinzel', serif;
 }
+#barzz{
+    color: rgb(255, 0, 76);
+    text-shadow: 0 0 1px black;
+    padding: 13px 0 0;
+    font-family: 'Cinzel', serif;
+}
 
 
 .desc:hover p{
@@ -945,6 +951,13 @@ xclip
 .testi-meta {
     display: block;
     margin-top: 20px;
+}
+
+.testi-meta span {
+    font-size: 18px;
+    color: rgb(255, 0, 76);
+    text-shadow: 0 0 3px rgb(255, 0, 76);;
+    padding: 13px 0 0;
 }
 
 .testimonial h4 {
